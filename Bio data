@@ -8,7 +8,7 @@
 
 <marquee>
 
-<body bgcolor="pink"><font color="black"><font size=30>Biodata</font>
+<body bgcolor="blue"><font color="black"><font size=30>Biodata</font>
 
 </marquee>
 
@@ -16,27 +16,27 @@
 
 <body><font size=5><font color="blue">
 
-<img src="Desert.jpg" align="right" height=50 width=50 1px>
+<img src="my.jpg.png" align="right" height=50 width=50 1px>
 
-Name:S.Nandhini<br>
+Name: Silambarasan<br>
 
-Father's name:S.Selvarajan<br>
+Father's name:Ramalingam<br>
 
-Mothers's name:S.Usha<br>
+Mothers's name:Rajeshwari<br>
 
-DOB:18:12:1997<br>
+DOB:16/05/2004<br>
 
-Address:Chennai-19<br>
+Address:karur<br>
 
-Mobile no:1234566543<br>
+Mobile no:6374390434<br>
 
 Religion:Hindu<br>
 
 Nationality:Indian<br>
 
-Gender:Female<br>
+Gender:male<br>
 
-Qualification:BCA<br>
+Qualification:Bsc<br>
 
 <table style="width:50%"border=3>
 
